@@ -48,3 +48,7 @@
 [네이버](https://www.naver.com)
 
 [네이버](https://www.naver.com, "클릭하시면 네이버로 이동합니다")
+
+**저장소 이미지** 삽입하기
+
+![프로필 이미지](./upload_test.jpg)
